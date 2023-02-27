@@ -7,6 +7,9 @@ use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 
 class ProductController extends Controller
+
+
+
 {
     /**
      * Display a listing of the resource.
